@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+	<NOMESERVIDOR>Leonardo Alcantara</NOMESERVIDOR>
+	<LISTAATIVIDADES>
+		<ATIVIDADE>
+			<TITULO>Investigação OI/Portugal Telecom</TITULO>
+			<SOLICITANTE>CFTC</SOLICITANTE>
+			<CONTRAPARTE>SMI</CONTRAPARTE>
+			<DATAINICIO>2015-03-12</DATAINICIO>
+			<DATAFIM></DATAFIM>
+			<STATUS>ATIVO</STATUS>
+			<DESCRICAO>Denuncia de investidor repassada pela CFTC a respeito da operação de Forex da Lloyd Internacional</DESCRICAO>
+		</ATIVIDADE>
+	</LISTAATIVIDADES>	
+</CATALOGO>
